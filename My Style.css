@@ -1,0 +1,23 @@
+body{
+   background-color: darksalmon; 
+}
+h1{
+    Font-size: 46px;
+    text-align: center;
+    color:rgb(255, 0, 0);
+}
+h2{
+    font-size: 30px;
+    color:fuchsia;
+}
+h2{
+    color:darkblue;
+    text-align: center;
+}
+a{
+    font-size: 30px;
+    text-align: center;
+}
+article{
+    text-align: center;
+}
